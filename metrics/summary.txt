@@ -1,0 +1,7 @@
+=== SAHAYAM metrics summary ===
+File: /Users/vssk/Projects/project-sahayam/metrics/baseline_vs_week1.csv
+Total participants logged: 301
+MFA adoption (0->1): 47.8% of participants
+Screen lock adoption (0->1): 0.0% of participants
+Bank limit adoption (0->1): 0.0% of participants
+Average scam-score improvement (out of 5): 0.00

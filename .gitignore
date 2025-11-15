@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# SAHAYAM generated files (never commit session data)
+materials/generated/
+materials/pdf/
+metrics/baseline_vs_week1.csv
+
+# Editor/settings
+.vscode/
+.idea/

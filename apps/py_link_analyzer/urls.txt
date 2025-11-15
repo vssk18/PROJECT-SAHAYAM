@@ -1,0 +1,3 @@
+https://google.com
+http://login-secure-support.example.cn
+bit.ly/xyz
