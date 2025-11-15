@@ -1,4 +1,4 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
@@ -12,11 +12,11 @@ venv/
 # macOS
 .DS_Store
 
-# SAHAYAM generated files (never commit session data)
+# SAHAYAM generated files (never commit real data)
 materials/generated/
 materials/pdf/
 metrics/baseline_vs_week1.csv
 
-# Editor/settings
+# Editor/config
 .vscode/
 .idea/

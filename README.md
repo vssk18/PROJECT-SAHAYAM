@@ -65,3 +65,12 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install qrcode pillow
 ```
+
+## 6. Contact
+
+Maintainer: **Varanasi Sai Srinivasa Karthik** (vssk18, he/him)  
+
+If you want to reuse SAHAYAM or discuss collaborations you can reach me at:
+- Personal: \`varanasikarthik44@gmail.com\`
+- University: \`svaranas3@gitam.in\`
+- GitHub account email: \`vsskarthik@gmail.com\`
