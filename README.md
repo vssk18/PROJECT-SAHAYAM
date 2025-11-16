@@ -48,7 +48,7 @@ PROJECT-SAHAYAM/
 
 ---
 
-## 🛠️ Security-Focused Tools (apps/)
+## 🛠️ Security-Focused Tools (apps)
 
 - **cpp_sms_filter/**  
   Offline C++ SMS scam detector for KYC / UPI / OTP / refund / prize patterns, with simple severity scoring.
