@@ -1,3 +1,19 @@
+<div align="center">
+
+<a href="#readme"><img src="https://img.shields.io/badge/-README-24292f?style=flat&logo=book&logoColor=white" alt="README" /></a>
+&nbsp;&nbsp;
+<a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/-Code%20of%20Conduct-24292f?style=flat&logo=heart&logoColor=white" alt="Code of Conduct" /></a>
+&nbsp;&nbsp;
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/-Contributing-24292f?style=flat&logo=group&logoColor=white" alt="Contributing" /></a>
+&nbsp;&nbsp;
+<a href="LICENSE"><img src="https://img.shields.io/badge/-MIT%20License-24292f?style=flat&logo=scale&logoColor=white" alt="MIT License" /></a>
+&nbsp;&nbsp;
+<a href="SECURITY.md"><img src="https://img.shields.io/badge/-Security-24292f?style=flat&logo=shield&logoColor=white" alt="Security" /></a>
+
+</div>
+
+---
+
 # 🛡️ Project SAHAYAM
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
