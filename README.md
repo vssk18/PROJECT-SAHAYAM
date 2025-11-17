@@ -191,7 +191,7 @@ This project is licensed under MIT. See the [LICENSE](./LICENSE) file for detail
 
 ---
 
-## 👨‍💻 Maintainer
+## 👥 Co-Founders
 
 **Varanasi Sai Srinivasa Karthik**  
 B.Tech CSE (Cybersecurity), GITAM University, Hyderabad  
@@ -199,6 +199,10 @@ B.Tech CSE (Cybersecurity), GITAM University, Hyderabad
 - 📧 svaranas3@gitam.in
 - 📧 vsskarthik@gmail.com
 - [GitHub Profile](https://github.com/vssk18)
+
+**Pravallika Ghantasala**  
+B.Tech CSE, GITAM University, Hyderabad  
+- 📧 pghantas@gitam.in
 
 ---
 
